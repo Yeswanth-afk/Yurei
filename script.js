@@ -579,7 +579,7 @@ const seal = document.getElementById('yurei-seal');
 const btn = document.getElementById('download-btn');
 const logoContainer = document.getElementById('logo-container');
 const lore = document.querySelector('.lore');
-const GITHUB_URL = 'https://github.com/yourusername/yurei/releases';
+const GITHUB_URL = 'https://github.com/yeswanth-s/yurei/releases';
 
 // Hover effect: Vibrate seal
 btn.addEventListener('mouseenter', () => seal.classList.add('vibrate'));
