@@ -7,7 +7,7 @@
 <p align="center"><strong>A custom anime-themed wallpapers and widgets app for personalization enthusiasts</strong></p>
 
 <p align="center">
-  <img src="assets/Your Widgets Reimagined.png" alt="Yurei Preview" width="900"/>
+  <img src="assets/Your Widgets Reimagined.png" alt="Yurei Preview" width="1000"/>
 </p>
 
 <p align="center">
