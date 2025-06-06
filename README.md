@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" alt="Yurei Logo" width="120"/>
 </p>
-
-<h1 align="center">Yurei</h1>
-
 <p align="center">
   <img src="assets/Your Widgets Reimagined.png" alt="Yurei Preview" width="1000"/>
 </p>
