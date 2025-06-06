@@ -4,15 +4,12 @@
 
 <h1 align="center">Yurei</h1>
 
-<p align="center"><strong>A custom anime-themed wallpapers and widgets app for personalization enthusiasts</strong></p>
-
 <p align="center">
   <img src="assets/Your Widgets Reimagined.png" alt="Yurei Preview" width="1000"/>
 </p>
 
-<p align="center">
-  Featuring 70+ wallpapers, 25+ KWGT widgets and 5 exclusive Cyberpunk weather komponents — all packed into a sleek open-source Android app.
-</p>
+<p align="center"><strong>A custom anime-themed wallpapers and widgets app for personalization enthusiasts</strong></p>
+
 
 <p align="center">
   <a href="https://yeswanth-s.github.io/Yurei/" target="_blank">
