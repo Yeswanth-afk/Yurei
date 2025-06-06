@@ -31,8 +31,7 @@ You can grab the latest APK and source packages from the [Releases](https://gith
 - 70+ handpicked anime wallpapers
 - 25+ unique KWGT widgets & setups
 - 5 Cyberpunk-style weather komponents
-- Muzei live wallpaper support
-- Open-source, no ads, pure personalization
+- Open-source
 
 
 ## Previews & Showcase
